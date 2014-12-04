@@ -29,7 +29,7 @@ import android.preference.PreferenceFragment;
 import de.schildbach.wallet.Configuration;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.WalletBalanceWidgetProvider;
-import de.schildbach.wallet_test.R;
+import se.goobit.wallet.R;
 
 /**
  * @author Andreas Schildbach

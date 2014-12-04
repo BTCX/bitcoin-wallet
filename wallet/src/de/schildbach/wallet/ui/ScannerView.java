@@ -35,7 +35,7 @@ import android.view.View;
 
 import com.google.zxing.ResultPoint;
 
-import de.schildbach.wallet_test.R;
+import se.goobit.wallet.R;
 
 /**
  * @author Andreas Schildbach

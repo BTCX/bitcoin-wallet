@@ -27,7 +27,7 @@ import org.bitcoinj.utils.MonetaryFormat;
 import android.os.Build;
 import android.os.Environment;
 import android.text.format.DateUtils;
-import de.schildbach.wallet_test.R;
+import se.goobit.wallet.R;
 
 /**
  * @author Andreas Schildbach

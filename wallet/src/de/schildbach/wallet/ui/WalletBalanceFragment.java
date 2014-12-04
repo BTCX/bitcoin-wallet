@@ -45,7 +45,7 @@ import de.schildbach.wallet.ExchangeRatesProvider.ExchangeRate;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.service.BlockchainState;
 import de.schildbach.wallet.service.BlockchainStateLoader;
-import de.schildbach.wallet_test.R;
+import se.goobit.wallet.R;
 
 /**
  * @author Andreas Schildbach

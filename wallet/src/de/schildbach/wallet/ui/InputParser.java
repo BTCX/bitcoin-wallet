@@ -62,7 +62,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.data.PaymentIntent;
 import de.schildbach.wallet.util.Io;
 import de.schildbach.wallet.util.Qr;
-import de.schildbach.wallet_test.R;
+import se.goobit.wallet.R;
 
 /**
  * @author Andreas Schildbach
